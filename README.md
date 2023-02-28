@@ -1,6 +1,6 @@
 ### Data and scripts for Pesce and Lindorff-Larsen 2023
 
-## Requirements used:
+## Requirements and data:
 - BME reweighting requires https://github.com/KULL-Centre/BME
 
 - Block analysis requires https://github.com/fpesceKU/BLOCKING
